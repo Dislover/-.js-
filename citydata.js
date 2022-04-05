@@ -54595,3 +54595,4 @@ var citydata = [{
         }]
     }]
 }];
+export default citydata;
